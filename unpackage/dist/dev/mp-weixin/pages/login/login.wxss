@@ -18,3 +18,11 @@
   text-align: center;
   border-radius: 4px;
 }
+.form-group.has-error .input {
+  border-color: red;
+}
+.error-text {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
