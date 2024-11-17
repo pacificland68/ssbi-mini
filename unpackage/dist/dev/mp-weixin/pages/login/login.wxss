@@ -1,0 +1,20 @@
+.login-container {
+  padding: 20px;
+}
+.form-group {
+  margin-bottom: 20px;
+}
+.input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #007aff;
+  color: #fff;
+  text-align: center;
+  border-radius: 4px;
+}
